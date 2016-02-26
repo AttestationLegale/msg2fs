@@ -1,0 +1,11 @@
+{
+    "name": "alg/msg2fs",
+    "type": "component",
+    "authors": [
+        {
+            "name": "Sylvain",
+            "email": "sylvain.hubsch@attestationlegale.fr"
+        }
+    ],
+    "require": {}
+}
