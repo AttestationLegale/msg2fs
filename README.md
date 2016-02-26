@@ -1,5 +1,6 @@
 # msg2fs
 
+Send message to file system.
 
 __Roadmap__ 
 
