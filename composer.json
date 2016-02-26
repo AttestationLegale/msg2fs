@@ -13,7 +13,8 @@
     ],
     "require": {},
     "require-dev": {
-        "phpunit/phpunit": "^5.2"
+        "sebastian/version": "1.0.x",
+        "phpunit/phpunit": "4.8.x"
     },
     "autoload": {
         "psr-4": {
