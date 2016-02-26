@@ -13,8 +13,8 @@
     ],
     "require": {},
     "require-dev": {
-        "sebastian/version": "1.0.x",
-        "phpunit/phpunit": "4.8.x"
+        "symfony/yaml": "2.1.*",
+        "phpunit/phpunit": "4.8.*"
     },
     "autoload": {
         "psr-4": {
