@@ -1,0 +1,24 @@
+{
+    "name": "alg/msg2fs",
+    "type": "component",
+    "authors": [
+        {
+            "name": "Sylvain",
+            "email": "sylvain.hubsch@attestationlegale.fr"
+        },
+        {
+            "name": "Benjamin",
+            "email": "benjamin.delangue@attestationlegale.fr"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "symfony/yaml": "2.1.*",
+        "phpunit/phpunit": "4.8.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Alg\\": "src/Alg"
+        }
+    }
+}
