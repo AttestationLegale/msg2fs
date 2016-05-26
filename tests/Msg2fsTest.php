@@ -15,7 +15,7 @@ class Msg2fsTest extends PHPUnit_Framework_TestCase
         }
     }
 
-    public function testImroveMsgHead()
+    public function testImproveMsgHead()
     {
         $msg2Fs = new Msg2fs();
         $msg2Fs->improveMsgHead();
